@@ -70,11 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-Assets/HDRPDefaultResources/
+Assets/AssetPacks/HDRPDefaultResources/
 *.meta
-Assets/TerrainSampleAssets/
-Assets/Tom's Terrain Tools/
+Assets/AssetPacks/TerrainSampleAssets/
+Assets/AssetPacks/Tom's Terrain Tools/
 
 ProjectSettings/
 
 Packages/
+Assets/AssetPacks/HDRPDefaultResources/
+Assets/AssetPacks/HiRezSpaceshipsCreatorFree/
